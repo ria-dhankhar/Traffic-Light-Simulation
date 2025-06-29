@@ -1,12 +1,18 @@
 # 🚦 Traffic-Light-Simulation
 
+
+![Platform](https://img.shields.io/badge/Platform-Arduino-blue?logo=arduino)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Level](https://img.shields.io/badge/Level-Beginner-yellow)
+![Built With](https://img.shields.io/badge/Built%20With-C%2B%2B%20%7C%20ArduinoIDE-orange)
+
 ## 📄 Project Description
 
 **Traffic-Light-Simulation** is a hands-on Arduino project that replicates the functioning of a real-world traffic signal using LEDs. Built for self-practice and skill enhancement, the project reinforces core concepts of embedded systems, sequential logic, and microcontroller-based hardware control.
 
 This simulation features a fully timed light cycle—red, yellow, and green phases—along with a blinking green warning to closely mimic actual traffic flow patterns. It's an ideal beginner project that bridges theory with real-time hardware implementation.
 
----
+
 
 ### ✨ Key Highlights
 
@@ -15,7 +21,7 @@ This simulation features a fully timed light cycle—red, yellow, and green phas
 - Demonstrates real-world sequencing and logic control  
 - Includes a green light blinking phase for added realism
 
-  ---
+
 
 ## 🔄 Traffic Signal Sequence
 
@@ -29,7 +35,7 @@ The traffic light follows a specific timed sequence, designed to mimic a real-wo
 6. ⚫ **All OFF** – 1 second  
 7. 🔁 Repeat the cycle
 
----
+
 
 ## 📽️ Demo Video
 
@@ -37,7 +43,7 @@ The traffic light follows a specific timed sequence, designed to mimic a real-wo
 
 This video shows the breadboard-based Arduino traffic light simulation, demonstrating the red, yellow, green, and blinking green sequence in action.
 
----
+
 
 
 ## 🧰 Components Used
@@ -51,7 +57,7 @@ This video shows the breadboard-based Arduino traffic light simulation, demonstr
 - 🔲 **Breadboard** – 1  
 - 🔌 **USB Cable** – for uploading code to Arduino
 
----
+
 
 ## ⚙️ Setup Instructions
 
