@@ -33,9 +33,9 @@ The traffic light follows a specific timed sequence, designed to mimic a real-wo
 
 ## 📽️ Demo Video
 
-▶️ [Watch the Project Demo]([https://your-link-here.com](https://drive.google.com/file/d/1gsn7msTK_bay_aMktc-B3htmRpdgCpuA/view?usp=drivesdk))
+▶️ [Watch the Project Demo](https://drive.google.com/file/d/1gsn7msTK_bay_aMktc-B3htmRpdgCpuA/view?usp=drive_link)
 
-*Demonstration of the traffic light simulation built using an Arduino Uno and breadboard. The video showcases the complete signal sequence with red, yellow, green, and blinking green LEDs.*
+This video shows the breadboard-based Arduino traffic light simulation, demonstrating the red, yellow, green, and blinking green sequence in action.
 
 ---
 
