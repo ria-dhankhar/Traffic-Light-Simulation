@@ -99,7 +99,7 @@ Below is the circuit diagram created using Tinkercad to visualize the connection
 ## 👩‍💻 About the Creator
 
 Developed by **Ria Dhankhar**,  
-B.Tech (3rd Year), Electronics and Communication Engineering  
+B.Tech (1st Year), Electronics and Communication Engineering  
 Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi  
 
 This project was created as part of self-learning and practical exploration of embedded systems and Arduino programming.
