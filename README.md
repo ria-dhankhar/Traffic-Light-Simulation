@@ -94,13 +94,7 @@ Below is the circuit diagram created using Tinkercad to visualize the connection
 
 - Add pedestrian signal functionality with push-button control.
 - Integrate a countdown timer using an LCD or 7-segment display.
-- Build a PCB version for a more permanent prototype.
-
-## 👩‍💻 About the Creator
-
-Developed by **Ria Dhankhar**,  
-B.Tech (1st Year), Electronics and Communication Engineering  
-Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi  
+- Build a PCB version for a more permanent prototype. 
 
 This project was created as part of self-learning and practical exploration of embedded systems and Arduino programming.
 
